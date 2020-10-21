@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Team Members
 
 - Prajeet Didden: COSC Major!
-- Ayaka Miyazaki: MATH Major
+- Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
 ## References
