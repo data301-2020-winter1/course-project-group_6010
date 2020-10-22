@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Prajeet Didden: COSC Major!
 - Ayaka Miyazaki: MATH Major
-- Person 3: one sentence about you!
+- Carlos Diaz Molina: COSC Major
 
 ## References
 
