@@ -21,3 +21,6 @@ This dataset shows video game sales with ratings. The dataset is merged by two d
 ## References
 
 https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
+Video Link:
+https://www.youtube.com/watch?v=FCWWJjUmT4M 
